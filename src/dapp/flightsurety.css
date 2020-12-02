@@ -40,3 +40,13 @@ label.form {
 input {
     margin-right: 30px;
 }
+
+#flight-number {
+    margin-right: 30px;
+    width: 200px;
+}
+
+#fetch-response {
+    word-wrap: break-word;
+    width: 100%;
+}
